@@ -1,0 +1,1 @@
+g++ main.cpp neural_network.cpp neural_network.h bike_share_dataset.cpp bike_share_dataset.h poker_dataset.cpp poker_dataset.h matplotlibcpp.h -std=c++11 -I/usr/include/python2.7 -lpython2.7 -o $1.out
